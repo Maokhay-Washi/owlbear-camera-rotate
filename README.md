@@ -39,7 +39,7 @@ Because of that, this repository gives you:
 5. After Pages is live, your install link will be:
 
 ```text
-https://YOUR-USER.github.io/YOUR-REPO/manifest.json
+https://Maokhay-Washi.github.io/YOUR-REPO/manifest.json
 ```
 
 6. In Owlbear Rodeo, add that manifest URL as your extension install link.
