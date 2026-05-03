@@ -1,0 +1,12 @@
+{
+  "name": "Camera Rotate Tools",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Scene rotation tools and viewport helpers for Owlbear Rodeo.",
+  "author": "You",
+  "action": {
+    "title": "Rotate Tools",
+    "icon": "icon.svg",
+    "popover": "index.html"
+  }
+}
